@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Peter</h1>
 <h3 align="center">Un apasionado ingeniero de software y desarrollador backend.</h3>
 
-- 🔭 Actualmente estoy trabajando en **Universeweb**
+- 🔭 Actualmente estoy trabajando en proyectos independientes
 
 - 📫 Cómo llegar a mí **pmarambiovdev@gmail.com**
 
