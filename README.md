@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm petercols</h1>
-<h3 align="center"> A Software Engineer and Backend Developer</h3>
+<h3 align="left"> A Software Engineer and Backend Developer</h3>
 
 - 🔭 I am currently working on independent projects for entrepreneurs in Chile
 
