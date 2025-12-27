@@ -76,6 +76,3 @@ Además del desarrollo, me apasiona:
   </a>
 </p>
 
-<p align="center">
-  <em>"Siempre aprendiendo, siempre optimizando, siempre construyendo."</em>
-</p>
