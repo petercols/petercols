@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Peter Marambio</h1>
+<h1 align="center">👋 Hola, soy Pedro Marambio</h1>
 <h3 align="center">Software Engineer & Technical Lead | Backend Specialist | Architecture Consultant</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mí
 
-Soy **Software Engineer y Technical Lead** con más de 5 años de experiencia diseñando y construyendo sistemas de producción escalables. Actualmente lidero el departamento de IT en **Pharmatender**, una plataforma B2B farmacéutica que sirve a más de 40 clientes incluyendo GSK y otros laboratorios importantes.
+Soy **Software Engineer y Technical Lead** con más de 5 años de experiencia diseñando y construyendo sistemas de producción escalables. Actualmente trabajo como **Senior Software Engineer** en **Pharmatender**, una plataforma B2B farmacéutica, donde lidero el departamento de IT.
 
 En 2025 fundé **Bokel**, mi firma de consultoría especializada en arquitectura de software, donde ayudo a startups y emprendedores a diseñar soluciones técnicas robustas desde cero.
 
@@ -48,7 +48,7 @@ En 2025 fundé **Bokel**, mi firma de consultoría especializada en arquitectura
 
 ### 🎯 Proyectos Destacados
 
-- **Pharmatender Platform**: Liderazgo técnico de sistema B2B que conecta laboratorios con farmacias
+- **Pharmatender Platform**: Liderazgo técnico en plataforma B2B farmacéutica
 - **Latigou Marketplace**: Diseño completo de arquitectura y base de datos para plataforma de turismo
 - **Chilean Procurement Scraper**: Sistema de extracción y procesamiento de datos gubernamentales
 - **Security Remediation**: Respuesta y mitigación de ataques de ransomware y vulnerabilidades críticas
