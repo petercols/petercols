@@ -50,8 +50,7 @@ En 2025 fundé **Bokel**, mi firma de consultoría especializada en arquitectura
 
 - **Pharmatender Platform**: Liderazgo técnico en plataforma B2B farmacéutica
 - **Latigou Marketplace**: Diseño completo de arquitectura y base de datos para plataforma de turismo
-- **Chilean Procurement Scraper**: Sistema de extracción y procesamiento de datos gubernamentales
-- **Security Remediation**: Respuesta y mitigación de ataques de ransomware y vulnerabilidades críticas
+- **Pases Boutique**: Diseño completo de arquitectura y base de datos para plataforma de venta de tickets para eventos.
 
 ### 🌱 Intereses
 
