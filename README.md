@@ -1,20 +1,82 @@
-<h1 align="center">Hola 👋, soy Petercols</h1>
-<h3 align="center">🚀 Software Engineer | Backend Developer | Tech Enthusiast</h3>
+<h1 align="center">👋 Hola, soy Peter Marambio</h1>
+<h3 align="center">Software Engineer & Technical Lead | Backend Specialist | Architecture Consultant</h3>
 
-💡 Apasionado por la tecnología, la innovación y la creación de soluciones escalables.  
-🛠️ Especializado en backend con **PHP (Laravel), Node.js, Python, Flask** y bases de datos **SQL/NoSQL**.  
-☁️ Experiencia en **DevOps, Docker, Google Cloud** y arquitecturas basadas en microservicios.  
-⚡ Desarrollo de APIs robustas, automatización de procesos y optimización de rendimiento.  
-🌍 Trabajo en proyectos independientes con emprendedores en Chile, ayudando a digitalizar sus negocios.  
+<p align="center">
+  <em>Construyendo sistemas escalables y resolviendo desafíos técnicos complejos</em>
+</p>
 
-🎯 Interesado en **ciberseguridad, astrofísica computacional e informática ambiental**.  
-📈 Siempre aprendiendo y explorando nuevas tecnologías para seguir mejorando.  
+---
 
-📫 **Contacto:** pmarambiovdev@gmail.com  
+## 🚀 Sobre mí
 
-<h3 align="left">🌐 Conéctate conmigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedro-m-774b3512b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+Soy **Software Engineer y Technical Lead** con más de 5 años de experiencia diseñando y construyendo sistemas de producción escalables. Actualmente lidero el departamento de IT en **Pharmatender**, una plataforma B2B farmacéutica que sirve a más de 40 clientes incluyendo GSK y otros laboratorios importantes.
+
+En 2025 fundé **Bokel**, mi firma de consultoría especializada en arquitectura de software, donde ayudo a startups y emprendedores a diseñar soluciones técnicas robustas desde cero.
+
+### 💼 Lo que hago
+
+- **Full-Stack Development** con enfoque backend
+- **Arquitectura de Software** y diseño de sistemas escalables
+- **Database Design & Optimization** (SQL/NoSQL)
+- **DevOps & Infrastructure** management
+- **Ciberseguridad** - Respuesta a incidentes y hardening
+- **Web Scraping** y automatización de procesos complejos
+- **Consultoría técnica 1-on-1** para startups
+
+### 🛠️ Stack Técnico
+
+**Backend & APIs:**
+- PHP (Laravel), Node.js, Python (Flask)
+- RESTful APIs, Microservicios
+- Sistema de ETL y procesamiento de datos
+
+**Databases:**
+- MySQL, PostgreSQL, MongoDB
+- Query optimization y performance tuning
+- Database architecture design
+
+**DevOps & Infrastructure:**
+- Docker, Google Cloud Platform
+- HashiCorp Vault para gestión segura de credenciales
+- CI/CD, DNS management, SSL/TLS
+- Cybersecurity incident response
+
+**Tools & Methodologies:**
+- Git, Linux, Apache/Nginx
+- Agile development
+- Technical documentation (SRS, API specs)
+
+### 🎯 Proyectos Destacados
+
+- **Pharmatender Platform**: Liderazgo técnico de sistema B2B que conecta laboratorios con farmacias
+- **Latigou Marketplace**: Diseño completo de arquitectura y base de datos para plataforma de turismo
+- **Chilean Procurement Scraper**: Sistema de extracción y procesamiento de datos gubernamentales
+- **Security Remediation**: Respuesta y mitigación de ataques de ransomware y vulnerabilidades críticas
+
+### 🌱 Intereses
+
+Además del desarrollo, me apasiona:
+- 🔐 Ciberseguridad y ethical hacking
+- 🌌 Astrofísica computacional
+- 🌍 Informática ambiental
+- 🏋️ Optimización del rendimiento (tanto en sistemas como personal)
+
+### 📫 Contacto
+
+**Email:** pmarambiovdev@gmail.com  
+**Consulting:** Disponible para proyectos de arquitectura y consultoría técnica
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-m-774b3512b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:pmarambiovdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>"Siempre aprendiendo, siempre optimizando, siempre construyendo."</em>
 </p>
