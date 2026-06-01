@@ -16,7 +16,7 @@ He sido responsable técnico único de plataformas en producción, cubriendo ade
 
 ---
 
-## 🏢 Bokel — Consultoría en Ingeniería de Software
+## 🏢 Bokel - Consultoría en Ingeniería de Software
 
 Fundé **[Bokel](https://bokel.cl)** en 2025 como mi consultoría en ingeniería de software. Acompaño a emprendedores y equipos a construir productos sólidos de extremo a extremo: desde el levantamiento de requerimientos hasta el despliegue en producción.
 
@@ -64,8 +64,8 @@ Git, GitHub, Jira, Selenium, herramientas de IA (Claude Code, Cursor)
 ## 🎯 Proyectos Destacados
 
 - **[QSales](https://qsales.cl/)** — Plataforma de integración B2B para el sector farmacéutico que extrae, consolida y procesa información diaria desde portales de retail (sell out, quiebres, stock y geolocalización de locales). Reconstruí el sistema completo desde cero: rediseñé y refactoricé una plataforma legacy lenta y obsoleta, migrándola a Node.js, React y API REST con autenticación JWT. La nueva versión quedó en producción reemplazando al sistema anterior, sirviendo a 40 clientes corporativos (GSK, Dentaid, FAES). Optimización de algoritmos críticos que redujo cargas de dashboards de 60s a 3-5s.
-- **Latigou Marketplace** — Arquitectura completa, modelado de base de datos y especificación de APIs para plataforma de turismo.
-- **Pases** — Plataforma boutique de venta de tickets para eventos; arquitectura, base de datos e integración de pagos.
+- **Latigou Marketplace** - Arquitectura completa, modelado de base de datos y especificación de APIs para plataforma de turismo.
+- **Pases** - Plataforma boutique de venta de tickets para eventos; arquitectura, base de datos e integración de pagos.
 
 ---
 
