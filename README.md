@@ -14,6 +14,8 @@ Ingeniero de software con más de 5 años construyendo y manteniendo productos w
 
 He sido responsable técnico único de plataformas en producción, cubriendo además DevOps, respuesta a incidentes y ciberseguridad. Destaco por traducir lo técnico a lenguaje de negocio y comunicarme con fluidez con cualquier interlocutor, desde un equipo de desarrollo hasta el cliente final.
 
+Trabajo bajo un enfoque **Spec-Driven Development**: especifico y documento los requerimientos antes de implementar, y uso herramientas de IA (Claude Code, Cursor) para acelerar el desarrollo con criterio técnico —la IA acelera, pero las decisiones de arquitectura las tomo yo.
+
 ---
 
 ## 🏢 Bokel - Consultoría en Ingeniería de Software
@@ -45,29 +47,38 @@ Fundé **[Bokel](https://bokel.cl)** en 2025 como mi consultoría en ingeniería
 JavaScript/TypeScript (ES6+), Python, SQL · también PHP
 
 **Backend**
-Node.js, Express, Python (Flask), REST APIs · también Laravel, CodeIgniter
+Node.js, Express, Python (Flask), REST APIs, autenticación JWT, validación con Zod, documentación con Swagger · también Laravel, CodeIgniter
 
 **Bases de Datos**
-PostgreSQL, MySQL, MongoDB, Prisma, Sequelize
-
-**DevOps & Cloud**
-Linux (Ubuntu), Docker, Google Cloud Platform, Grafana
+PostgreSQL, MySQL, MongoDB, Prisma, Sequelize, Supabase
 
 **Frontend**
-React.js, HTML5, CSS3, Tailwind CSS
+React.js, Next.js, Vite, Tailwind CSS, shadcn/ui, HTML5, CSS3
+
+**Pagos & Integraciones**
+MercadoPago (Checkout Pro), Transbank (Webpay Plus), Resend, Twilio
+
+**DevOps & Cloud**
+Linux (Ubuntu), Docker, Google Cloud Platform, Vercel, Render, Grafana, Sentry
 
 **Herramientas**
-Git, GitHub, Jira, Selenium, herramientas de IA (Claude Code, Cursor)
+Git, GitHub, Jira, Selenium, Jest, Playwright, herramientas de IA (Claude Code, Cursor)
 
 ---
 
 ## 🎯 Proyectos Destacados
 
-- **[QSales](https://qsales.cl/)** — Plataforma de integración B2B para el sector farmacéutico que extrae, consolida y procesa información diaria desde portales de retail (sell out, quiebres, stock y geolocalización de locales). Reconstruí el sistema completo desde cero: rediseñé y refactoricé una plataforma legacy lenta y obsoleta, migrándola a Node.js, React y API REST con autenticación JWT. La nueva versión quedó en producción reemplazando al sistema anterior, sirviendo a 40 clientes corporativos (GSK, Dentaid, FAES). Optimización de algoritmos críticos que redujo cargas de dashboards de 60s a 3-5s.
+- **[QSales](https://qsales.cl/)** *(en producción)* — Plataforma de integración B2B para el sector farmacéutico que extrae, consolida y procesa información diaria desde portales de retail (sell out, quiebres, stock y geolocalización de locales). Reconstruí el sistema completo desde cero, migrando una plataforma legacy lenta y obsoleta a Node.js, React y API REST con autenticación JWT. En producción reemplazando al sistema anterior, sirviendo a 40 clientes corporativos (GSK, Dentaid, FAES). Optimización de algoritmos críticos que redujo cargas de dashboards de 60s a 3-5s.
+
+- **Emprende Pro** *(por lanzar)* — Plataforma con más de un año de desarrollo acelerado con IA bajo un enfoque Spec-Driven Development. **Backend:** Express + TypeScript en arquitectura modular propia (routes / controller / service / schema por feature), Prisma + PostgreSQL, validación con Zod, pagos con MercadoPago (Checkout Pro), emails con Resend, logging con Pino, monitoreo con Sentry, jobs con node-cron, uploads con Multer, auth JWT + cookies HttpOnly y documentación de API con Swagger.
+
+- **Pases** — Plataforma boutique de venta de tickets para eventos, con más de un año de desarrollo acelerado con IA y criterio técnico. **Backend:** Express + TypeScript, Prisma + PostgreSQL (Supabase), pagos con Transbank Webpay Plus, generación de PDFs y QR (pdfkit + qrcode), notificaciones por WhatsApp con Twilio, auth JWT, seguridad con helmet / cors / rate-limit, deploy con Docker (multi-stage) en Render y tests con Jest. **Frontend:** SPA en React 19 + Vite, React Router 7 y Framer Motion.
+
+- **[Bokel](https://bokel.cl)** — Sitio de mi consultoría. **Next.js 16** (App Router, Turbopack) con renderizado en servidor (SSR/SSG) para SEO, React 19, TypeScript, Tailwind 4, animaciones con Framer Motion y scroll suave con Lenis. Formulario de leads con Resend y Google reCAPTCHA v3, analítica con Vercel Analytics y deploy en Vercel.
+
+- **Órbita** *(MVP en desarrollo, con socio)* — SaaS de retención para e-commerce: segmenta la base de clientes por comportamiento de compra y automatiza campañas de email y WhatsApp. Frontend en Next.js 15 (React 19, TypeScript).
+
 - **Gestor de tareas programadas en Flask (Pharmatender)** — Aplicación web en Python con Flask, desplegada en servidor Ubuntu Linux, para administrar y ejecutar los procesos cron del sistema: gestión de scripts y sus nombres, seguimiento de cada ejecución con logs y manejo de errores, monitoreo de estado y alertas automáticas hacia Google Workspace ante fallos.
-- **Webhooks y microservicios en Python** — Desarrollo de múltiples servicios pequeños y webhooks en Python para integraciones, procesamiento de datos y automatización de tareas.
-- **Latigou Marketplace** — Arquitectura completa, modelado de base de datos y especificación de APIs para plataforma de turismo.
-- **Pases** — Plataforma boutique de venta de tickets para eventos; arquitectura, base de datos e integración de pagos.
 
 ---
 
@@ -82,5 +93,3 @@ Cuando no estoy frente a una terminal, suelo estar entrenando calistenia, levant
 - ✉️ **Email:** pmarambiovdev@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/pedromv8](https://linkedin.com/in/pedromv8)
 - 🌐 **Bokel:** [bokel.cl](https://bokel.cl)
-
-> Disponible para proyectos backend en modalidad part-time / freelance.
